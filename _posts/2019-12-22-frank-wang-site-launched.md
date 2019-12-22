@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Biao (Frank) Wang"
+title: "Biao (Frank) Wang's First Blog"
 date: 2019-12-22
 ---
 
